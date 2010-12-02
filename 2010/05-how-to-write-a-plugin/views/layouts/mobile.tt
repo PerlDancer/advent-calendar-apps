@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>Dancr on mobile phone</title>
+<link rel=stylesheet type=text/css href="<% css_url %>">
+</head>
+<body>
+<div class=page>
+  <h1>Dancr on mobile phone</h1>
+  <div class=metanav>
+      <% content %>
+  </div>
+</div>
+</body>
+</html>
